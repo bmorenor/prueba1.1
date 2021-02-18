@@ -8,5 +8,9 @@ public class AplMain {
         System.out.printf("otra vez");
         System.out.println("hola mundo");
         System.out.printf("otra vez");
+        System.out.println("hola mundo");
+        System.out.printf("otra vez");
+        System.out.println("hola mundo");
+        System.out.printf("otra vez");
     }
 }
