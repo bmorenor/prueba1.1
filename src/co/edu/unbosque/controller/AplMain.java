@@ -10,6 +10,8 @@ public class AplMain {
         System.out.println("andres me cae mal x2");
         System.out.println("andres me cae mal");
         System.out.println("andres me cae mal x2");
+        System.out.println("andres me cae mal");
+        System.out.println("andres me cae mal x2");
 
     }
 }
