@@ -5,6 +5,7 @@ public class AplMain {
         System.out.println("hola mundo");
         System.out.printf("otra vez");
         System.out.println("andres me cae mal");
+        System.out.println("andres me cae mal x2");
 
     }
 }
